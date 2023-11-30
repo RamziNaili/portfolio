@@ -9,7 +9,7 @@ import {
 
 export const Header: FC = () => {
   return (
-    <div className="flex justify-between items-center p-8">
+    <div className="flex justify-between items-center p-8 shadow-[0_0px_11px_rgba(0,0,0,.09)]">
       <p className="font-poppins font-bold text-[#2d2e32] text-xl">
         Naili Ramzi
       </p>
